@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Apr 25 13:47:36 2020
-
-@author: Acer
-"""
-
 
 from keras import regularizers
 from keras.models import Sequential
