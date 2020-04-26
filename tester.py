@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Apr 25 19:45:56 2020
 
-@author: Acer
-"""
 
 
 from keras import regularizers
