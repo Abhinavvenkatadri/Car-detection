@@ -1,1 +1,1 @@
-please refer to the project
+The code detects cars from images using CNNs.
